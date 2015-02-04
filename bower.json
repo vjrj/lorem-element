@@ -1,0 +1,7 @@
+{
+  "name": "Lorem-Element",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#latest"
+  }
+}
