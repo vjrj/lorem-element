@@ -1,0 +1,27 @@
+{
+  "name": "lorem-element",
+  "authors": [
+    "Vicente J. Ruiz Jurado"
+  ],
+  "description": "Element that generates a div with some lorem paragraphs in different charsets and languages",
+  "keywords": [
+    "'Polymer",
+    "web-components",
+    "lorem"
+  ],
+  "license": "Apache",
+  "homepage": "https://github.com/vjrj/lorem-element",
+  "dependencies": {
+    "polymer": "Polymer/polymer#latest"
+  },
+  "_release": "d848ce0344",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d848ce03447242c46435042c4380cc93c01ca978"
+  },
+  "_source": "git://github.com/vjrj/lorem-element.git",
+  "_target": "master",
+  "_originalSource": "vjrj/lorem-element",
+  "_direct": true
+}

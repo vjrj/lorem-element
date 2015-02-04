@@ -1,0 +1,7 @@
+{
+  "name": "lorem-element#gh-pages",
+  "private": true,
+  "dependencies": {
+    "lorem-element": "vjrj/lorem-element#master"
+  }
+}
