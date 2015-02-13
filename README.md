@@ -1,7 +1,7 @@
 lorem-element
 ================
 
-See the [lorem-element documentation page](https://github.com/vjrj/lorem-element) for more information.
+See the [lorem-element documentation page](https://vjrj.github.io/lorem-element/components/lorem-element/) for more information.
 
 ## Getting Started
 
